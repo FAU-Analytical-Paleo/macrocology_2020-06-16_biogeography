@@ -1,3 +1,6 @@
+#' Plotting biogeographic membership
+#' Adam T. Kocsis (Erlangen, 2020-06-17)
+#' CC-BY 4.0
 #' @param mem Membership vector.
 #' @param cols color vector.
 #' @param bg Spatial object, background.

@@ -1,3 +1,7 @@
+# Preparing species-level PBDB data (last 10 Ma) for paleobiogeographic analysis
+# Adam T. Kocsis (Erlangen, 2020-06-17)
+# CC-BY 4.0
+
 library(chronosphere)
 library(divDyn)
 

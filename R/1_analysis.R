@@ -1,3 +1,7 @@
+# Paleobiogeographic analysis of PBDB data (last 10 Ma) 
+# Adam T. Kocsis (Erlangen, 2020-06-17)
+# CC-BY 4.0
+
 library(icosa)
 library(vegan)
 library(igraph)
